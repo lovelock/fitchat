@@ -13,7 +13,7 @@ Now you can get the repo and add your own business related code and run it.
 * user online state support 
 
 ### How do I get set up? ###
-__todo__
+--todo--
 * Summary of set up
 * Configuration
 * Dependencies
