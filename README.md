@@ -13,13 +13,7 @@ Now you can get the repo and add your own business related code and run it.
 * user online state support 
 
 ### How do I get set up? ###
---todo--
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+I will cover this section as the project being implemented 
 
 ### Contribution guidelines ###
 
@@ -29,4 +23,4 @@ Now you can get the repo and add your own business related code and run it.
 
 ### Who do I talk to? ###
 
-* frostwong@gmail.com
+* <frostwong@gmail.com>
