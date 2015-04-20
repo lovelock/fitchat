@@ -1,2 +1,3 @@
-Web端客户端，和服务端保持长连接来接收服务端推送的消息。
-App客户端暂无。
+
+Web side client which keeps a HTTP persistent connection with iComet server.
+There's no mobile client for now, but I will work on it next.
