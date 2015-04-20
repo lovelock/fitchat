@@ -1,15 +1,19 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This project provides mostly every module a online chat system would need. It's based on an open source project [icomet](https://github.com/ideawu/icomet). 
 
-### What is this repository for? ###
+I forked the project and modified it as I need.
 
-* 使用iComet技术实现聊天消息推送，基于ideawu的icomet和我自己项目的需要加上了更多组件，实现了一个完整可用的聊天系统。
-* 0.1
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+Now you can get the repo and add your own business related code and run it.
+
+### Features ###
+* chat messages transformation and store 
+* multiple device login support 
+* user role support 
+* user online state support 
 
 ### How do I get set up? ###
-
+__todo__
 * Summary of set up
 * Configuration
 * Dependencies
@@ -21,9 +25,8 @@ This README would normally document whatever steps are necessary to get your app
 
 * Writing tests
 * Code review
-* Other guidelines
+* Documentation 
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* frostwong@gmail.com
